@@ -1,0 +1,14 @@
+﻿Ideia #1:
+
+Criar a tela "criar sala":
+A tela conterá 10 salas dispostas num array de 2 linhas e 5 colunas.
+
+Acima haverá um botão sincronizar.
+
+Ao clicar em uma das salas, todas as das linhas acima serão preenchidas e todas as salas 
+à esquerda da mesma linha também serão preenchidas e alterarão sua cor para azul. 
+
+Ao clicar no botão sincronizar as salas escolhidas terão a cor alterada para verde.
+
+
+ npm install @testing-library/react react-test-render jest-dom --save-dev
